@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{ font-family: "Open Sans", sans-serif;
+	width: 850px;
+	margin: 0 auto;
+	
+}
+header{
+	margin-top: 10px;
+}
+
+#intro{
+	width: 58%;
+}
+
+h1{
+	width: 100%;
+	color: #0d4883;
+	margin: 30px 0px;
+	font-size: 19px;
+}
+
+#segunda_parte img{
+	position: absolute;
+}
+
+#segunda_parte p{
+	position: relative;
+	margin:0 240px;
+	padding: 20px 0;
+	font-size: 18px;
+}
+
+#datos li{
+	list-style-image: url("https://lh3.googleusercontent.com/pw/AP1GczME0db74NugpXfgE-eFbM0SCP2WRvJ8TioVyG3ib9Y3xdrZDxXzmBGvYOtFWCZ-1IwUnO4VyzWyja8UnEShh9YRHvwY2Z4g2yudCEMKyXh2jCv_yC6fO4tkZJuLOVAoaUSDX3L7WcLczHaDC03zWe0=w11-h13-s-no-gm?authuser=0");
+	font-size: 18px;
+	color: #0d4883;
+	font-weight: bold;
+	margin: 18px 0px 18px 170px;
+	position: relative;
+}
+
+#asistencia {
+	background-image: url("https://lh3.googleusercontent.com/pw/AP1GczNDIxAkJ0x5jzcAy-U6VLc8sFMJZVZaaa50lKRNEHab8RdDqieOcueK0xhUC86Iizm8KtyDVdaNEWBHaiNqQoESZXN4MqY4VkAnbFr3WZQNs1DqBTO87Z1Gq8Ac7VMG6t7ul4Ci4HvIaVZ3SDbVLNM=w811-h248-s-no-gm?authuser=0");
+}
+
+#asistencia p{
+	margin-left: 175px;
+	padding-top: 20px;
+	font-size: 12px;
+}
+
+h2{
+	font-size: 14px;
+	color: #0d4883;
+	font-weight: bold;
+	margin-left: 175px;
+}
+
+h3{
+	font-size: 12px;
+	font-weight: normal;
+	padding-bottom: 20px;
+	margin-left: 175px;
+}
+
